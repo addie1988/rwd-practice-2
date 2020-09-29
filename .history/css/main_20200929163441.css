@@ -106,7 +106,6 @@
 .main-content .col-2:nth-child(3) span {font-size: 13px;color: #b92d1f;display: flex;justify-content: flex-end;}
 .main-content-img {border: 1px solid #dfdfdf;overflow: hidden;}
 .main-content-img img {padding: 1%;width: 100%;transform: scale(1,1);transition: all 4s ease-out;}
-.main-content-img img:hover {transform: scale(1.2,1.2);}
 .main .row {margin-left: 0;margin-right: 0;padding: 50px 0;}
 .main-service {margin: 0 10px;}
 .message-1 {padding-bottom: 10px;}
